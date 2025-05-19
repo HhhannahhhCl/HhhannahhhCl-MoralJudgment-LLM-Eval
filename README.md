@@ -4,7 +4,7 @@ This repository contains the papers and resources of our survey *Assessing Moral
 Note that papers may appear in multiple sections depending on their research design.
 
 ## Existing benchmark datasets on moral judgment by LLMs:
-![Flussdiagramm - Rahmen 6](https://github.uio.no/hannacla/MoralJudgment-LLM-Evaluation/assets/12022/1055eb75-f3ed-465d-afc2-580d749052ae)
+![Flussdiagramm - Rahmen 6](https://github.com/user-attachments/assets/b7ef94e1-c0ed-4258-aa0e-c34d6a5c0ebc)
 
 ## Predecessors to our work
 **[Values, Ethics, Morals? On the Use of Moral Concepts in NLP Research](https://doi.org/10.18653/v1/2023.findings-emnlp.368)**. Karina Vida, Judith Simon, and Anne Lauscher. 2023. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 5534–5554, Singapore. Association for Computational Linguistics.
