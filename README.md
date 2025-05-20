@@ -48,7 +48,7 @@ Note that papers may appear in multiple sections depending on their research des
 
 **[Towards Theory-based Moral AI: Moral AI with Aggregating Models Based on Normative Ethical Theory](https://ceur-ws.org/Vol-3547/paper3.pdf)**. Masashi Takeshita, Rzepka Rafal, and Kenji Araki. 2023. In Ethics and Trust in Human-AI Collaboration: Socio-Technical Approaches, August 21, 2023, Macao, China. CEUR Workshop Proceedings.  
   
-**[Position: TrustLLM: Trustworthiness in large language models](https://proceedings.mlr.press/v235/huang24x.html)**. Huang et al. 2024. 2024. In Proceedings of the 41st International Conference on Machine Learning, volume 235 of Proceedings of Machine Learning Research, pages 20166–20270. PMLR.
+**[Position: TrustLLM: Trustworthiness in large language models](https://proceedings.mlr.press/v235/huang24x.html)**. Huang et al. 2024. In Proceedings of the 41st International Conference on Machine Learning, volume 235 of Proceedings of Machine Learning Research, pages 20166–20270. PMLR.
 
 **[EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas](https://proceedings.neurips.cc/paper_files/paper/2024/file/611e84703eac7cc03f78339df8aae2ed-Paper-Conference.pdf)**. Mikhail Mozikov, Nikita Severin, Valeria Bodishtianu, Maria Glushanina, Ivan Nasonov, Daniil Orekhov, Pekhotin Vladislav, Ivan Makovetskiy, Mikhail Baklashkin, Vasily Lavrentyev, Akim Tsvigun, Denis Turdakov, Tatiana Shavrina, Andrey Savchenko, and Ilya Makarov. 2024. In Advances in Neural Information Processing Systems, volume 37, pages 53969–54002. Curran Associates, Inc.
 
@@ -71,7 +71,7 @@ Note that papers may appear in multiple sections depending on their research des
 
 **[SaGE: Evaluating Moral Consistency in Large Language Models.](https://aclanthology.org/2024.lrec-main.1243/)**. Vamshi Krishna Bonagiri, Sreeram Vennam, Priyanshul Govil, Ponnurangam Kumaraguru, and Manas Gaur. 2024. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 14272–14284, Torino, Italia. ELRA and ICCL.
   
-**[Position: TrustLLM: Trustworthiness in large language models](https://proceedings.mlr.press/v235/huang24x.html)**. Huang et al. 2024. 2024. In Proceedings of the 41st International Conference on Machine Learning, volume 235 of Proceedings of Machine Learning Research, pages 20166–20270. PMLR.
+**[Position: TrustLLM: Trustworthiness in large language models](https://proceedings.mlr.press/v235/huang24x.html)**. Huang et al. 2024. In Proceedings of the 41st International Conference on Machine Learning, volume 235 of Proceedings of Machine Learning Research, pages 20166–20270. PMLR.
 
 **[EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas](https://proceedings.neurips.cc/paper_files/paper/2024/file/611e84703eac7cc03f78339df8aae2ed-Paper-Conference.pdf)**. Mikhail Mozikov, Nikita Severin, Valeria Bodishtianu, Maria Glushanina, Ivan Nasonov, Daniil Orekhov, Pekhotin Vladislav, Ivan Makovetskiy, Mikhail Baklashkin, Vasily Lavrentyev, Akim Tsvigun, Denis Turdakov, Tatiana Shavrina, Andrey Savchenko, and Ilya Makarov. 2024. In Advances in Neural Information Processing Systems, volume 37, pages 53969–54002. Curran Associates, Inc.
 
@@ -99,8 +99,7 @@ Note that papers may appear in multiple sections depending on their research des
   
 **[Enhancing the Measurement of Social Effects by Capturing Morality](https://doi.org/10.18653/v1/W19-1305)**. Rezvaneh Rezapour, Saumil H. Shah, and Jana Diesner. 2019. In Proceedings of the Tenth Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 35–45, Minneapolis, USA. Association for Computational Linguistics.
 
-**[MoralFoundations.org](https://moralfoundations.org/)**. 2024. Moral Foundations The
-ory.
+**[MoralFoundations.org](https://moralfoundations.org/)**. 2024. Moral Foundations Theory.
 
 **[Benchmarking progress in Natural Language Processing applications to Moral Foundations Theory](https://www.mft-nlp.com/)**. MFT-NLP. n.d. Maintained by Gabriel Simmons.
 
