@@ -200,23 +200,23 @@ Note that papers may appear in multiple sections depending on their research des
 
 **[MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/file/f751c6f8bfb52c60f43942896fe65904-Paper-Conference.pdf)**. Allen Nie, Yuhui Zhang, Atharva Shailesh Amdekar, Chris Piech, Tatsunori B Hashimoto, and Tobias Gerstenberg. 2023. In Advances in Neural Information Processing Systems, volume 36, pages 78360–78393. Curran Associates, Inc.
   
-### Moral Consistency & Certainty
-#### Logical Consistency
+## Moral Consistency & Certainty
+### Logical Consistency
 **[Ethical Reasoning over Moral Alignment: A Case and Framework for In-Context Ethical Policies in LLMs](https://doi.org/10.18653/v1/2023.findings-emnlp.892)**. Abhinav Sukumar Rao, Aditi Khandelwal, Kumar Tanmay, Utkarsh Agarwal, and Monojit Choudhury. 2023. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 13370–13388, Singapore. Association for Computational Linguistics.
 
 **[Ethical Reasoning and Moral Value Alignment of LLMs Depend on the Language We Prompt Them in](https://aclanthology.org/2024.lrec-main.560)**. Utkarsh Agarwal, Kumar Tanmay, Aditi Khandelwal, and Monojit Choudhury. 2024. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 6330–6340, Torino, Italia. ELRA and ICCL. 
 
-#### Semantic Consistency
+### Semantic Consistency
 **[SaGE: Evaluating Moral Consistency in Large Language Models.](https://aclanthology.org/2024.lrec-main.1243/)**. Vamshi Krishna Bonagiri, Sreeram Vennam, Priyanshul Govil, Ponnurangam Kumaraguru, and Manas Gaur. 2024. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 14272–14284, Torino, Italia. ELRA and ICCL.
 
-#### Moral Certainty
+### Moral Certainty
 **[Evaluating the Moral Beliefs Encoded in LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2cf225ba392627529efef14dc857e22-Paper-Conference.pdf)**. Nino Scherrer, Claudia Shi, Amir Feder, and David Blei. 2023. In Advances in Neural Information Processing Systems, volume 36, pages 51778–51809. Curran Associates, Inc.
 
 **[Towards Theory-based Moral AI: Moral AI with Aggregating Models Based on Normative Ethical Theory](https://ceur-ws.org/Vol-3547/paper3.pdf)**. Masashi Takeshita, Rzepka Rafal, and Kenji Araki. 2023. In Ethics and Trust in Human-AI Collaboration: Socio-Technical Approaches, August 21, 2023, Macao, China. CEUR Workshop Proceedings.
 
 **[EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas](https://proceedings.neurips.cc/paper_files/paper/2024/file/611e84703eac7cc03f78339df8aae2ed-Paper-Conference.pdf)**. Mikhail Mozikov, Nikita Severin, Valeria Bodishtianu, Maria Glushanina, Ivan Nasonov, Daniil Orekhov, Pekhotin Vladislav, Ivan Makovetskiy, Mikhail Baklashkin, Vasily Lavrentyev, Akim Tsvigun, Denis Turdakov, Tatiana Shavrina, Andrey Savchenko, and Ilya Makarov. 2024. In Advances in Neural Information Processing Systems, volume 37, pages 53969–54002. Curran Associates, Inc.  
 
-### Methodological Guidelines 
+## Methodological Guidelines 
 **[Handbook of Survey Methodology for the Social Sciences](https://doi.org/10.1007/978-1-4614-3876-2)**. Lior Gideon, editor. 2012. Springer, New York, NY.
 
 **[Designing Valid and Reliable Vignette Experiments for Survey Research: A Case Study on the Fair Gender Income Gap](https://doi.org/10.2458/v7i2.20321)**. Peter M. Steiner, Christiane Atzmüller, and Dan Su. 2017. Journal of Methods and Measurement in the Social Sciences, 7:52–94.
