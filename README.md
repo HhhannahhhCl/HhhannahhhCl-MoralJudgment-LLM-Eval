@@ -111,7 +111,7 @@ ory.
 
 **[The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems](https://doi.org/10.18653/v1/2022.acl-long.261)**. Caleb Ziems, Jane Yu, Yi-Chia Wang, Alon Halevy, and Diyi Yang. 2022. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3755–3773, Dublin, Ireland. Association for Computational Linguistics.
 
-**[Speaking Multiple Languages Affects the Moral Bias of Language Models](https://doi.org/10.18653/v1/2023.findings-acl.134)**. Katharina Hämmerl, Bjoern Deiseroth, Patrick Schramowski, Jindˇ rich Libovický, Constantin Rothkopf, Alexander Fraser, and Kristian Kersting. 2023. In Findings of the Association for Computational Linguistics: ACL 2023, pages 2137–2156, Toronto, Canada. Association for Computational Linguistics.
+**[Speaking Multiple Languages Affects the Moral Bias of Language Models](https://doi.org/10.18653/v1/2023.findings-acl.134)**. Katharina Hämmerl, Bjoern Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin Rothkopf, Alexander Fraser, and Kristian Kersting. 2023. In Findings of the Association for Computational Linguistics: ACL 2023, pages 2137–2156, Toronto, Canada. Association for Computational Linguistics.
 
 **[Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity](https://doi.org/10.18653/v1/2023.acl-srw.40)**. Gabriel Simmons. 2023. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pages 282–297, Toronto, Canada. Association for Computational Linguistics.
 
